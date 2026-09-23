@@ -1,0 +1,15 @@
+C:\Users\usuario\Documents\GitHub\sea\obj\Debug\net10.0-windows\sea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\GitHub\sea\obj\Debug\net10.0-windows\sea.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\GitHub\sea\obj\Debug\net10.0-windows\sea.AssemblyInfo.cs
+C:\Users\usuario\Documents\GitHub\sea\obj\Debug\net10.0-windows\sea.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\GitHub\sea\obj\Debug\net10.0-windows\sea.sourcelink.json
+C:\Users\usuario\Documents\GitHub\sea\bin\Debug\net10.0-windows\sea.exe
+C:\Users\usuario\Documents\GitHub\sea\bin\Debug\net10.0-windows\sea.deps.json
+C:\Users\usuario\Documents\GitHub\sea\bin\Debug\net10.0-windows\sea.runtimeconfig.json
+C:\Users\usuario\Documents\GitHub\sea\bin\Debug\net10.0-windows\sea.dll
+C:\Users\usuario\Documents\GitHub\sea\bin\Debug\net10.0-windows\sea.pdb
+C:\Users\usuario\Documents\GitHub\sea\obj\Debug\net10.0-windows\sea.dll
+C:\Users\usuario\Documents\GitHub\sea\obj\Debug\net10.0-windows\refint\sea.dll
+C:\Users\usuario\Documents\GitHub\sea\obj\Debug\net10.0-windows\sea.pdb
+C:\Users\usuario\Documents\GitHub\sea\obj\Debug\net10.0-windows\sea.genruntimeconfig.cache
+C:\Users\usuario\Documents\GitHub\sea\obj\Debug\net10.0-windows\ref\sea.dll
